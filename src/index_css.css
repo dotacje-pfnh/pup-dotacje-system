@@ -1,0 +1,7 @@
+/* Te trzy linie to dyrektywy Tailwind CSS */
+/* Mówią one Tailwind żeby załadował wszystkie swoje klasy utility */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Możesz dodać tutaj własne style globalne jeśli chcesz */
